@@ -19,7 +19,7 @@ To run this project, you will need to add the following environment variables to
 Clone the project
 
 ```bash
-  git clone https://github.com/harshavb08/AgriX.git
+  git clone https://github.com/varshithab05/Agrix-Ecommerce-Website.git
 ```
 
 Go to the project directory
@@ -86,17 +86,6 @@ For Backend
 
 ![multiLingual](https://user-images.githubusercontent.com/72433877/215319907-7893e800-757c-49de-b4c5-6f63bf16ba4f.png)
 
-
-## Technology
-
-The Website is built with 
-
-- React version 17.0.2
-- Node.js version 12.16.3
-- Mongoose version 6.1.8
-- Firebase version 9.6.6
-- Express version 4.17.2
-- Bootstrap version 5.2.0
 
 ## Features
 
